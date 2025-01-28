@@ -32,7 +32,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** Bar Chart (Country-Wise Analysis - Belgium)**  
+###  Bar Chart (Country-Wise Analysis - Belgium)  
 **Steps:**  
 1. Drag **Country** to the **Columns** shelf.  
 2. Drag **Value** to the **Rows** shelf.  
@@ -43,7 +43,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** Pie Chart (Category Distribution)**  
+###  Pie Chart (Category Distribution)
 **Steps:**  
 1. Drag **Category** to the **Columns** shelf.  
 2. Drag **Value** to the **Rows** shelf.  
@@ -55,7 +55,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** Scatter Plot (Time-Series Analysis)**  
+### Scatter Plot (Time-Series Analysis)  
 **Steps:**  
 1. Drag **Year** to the **Columns** shelf.  
 2. Drag **Value** to the **Rows** shelf.  
@@ -66,7 +66,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** World Map (Geospatial Visualization )**  
+###  World Map (Geospatial Visualization ) 
 **Steps:**  
 1. Drag **Country** to the **Columns** shelf.  
 2. Drag **Value** to the **Size** and **Color** shelves.  
@@ -77,7 +77,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** Line Chart (Bhutan & Costa Rica)**  
+###  Line Chart (Bhutan & Costa Rica) 
 **Steps:**  
 1. Drag **Year** to the **Columns** shelf.  
 2. Drag **Value** to the **Rows** shelf.  
@@ -88,7 +88,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ---
 
-### ** Dashboard Creation**  
+###  Dashboard Creation 
 **Steps:**  
 1. Click **New Dashboard** in Tableau.  
 2. Drag and drop all the created **Sheets** onto the dashboard.  
