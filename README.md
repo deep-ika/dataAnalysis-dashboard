@@ -15,7 +15,7 @@ This project involves data analysis and visualization using Tableau to uncover k
 
 ## Dataset Used
  
- - <a href="  "> Dataset </a>
+ - <a href="https://github.com/deep-ika/dataAnalysis-dashboard/blob/main/GDP%20by%20Country%20per%20Year_data%20(1).xlsx"> Dataset </a>
 
 ## Questions(KPIs)
 
@@ -98,10 +98,6 @@ This project involves data analysis and visualization using Tableau to uncover k
 ![tableau5](https://github.com/user-attachments/assets/60d14a84-8dbc-471a-a639-3181fd62f5f7)
 
 ---
-
-## Data insights
-
--
 
 
 
